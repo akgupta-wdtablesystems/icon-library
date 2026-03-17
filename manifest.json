@@ -1,0 +1,411 @@
+{
+  "name": "icon-library",
+  "version": "1.0.0",
+  "description": "A unified icon library containing pixel-perfect, scalable SVG assets",
+  "totalIcons": 59,
+  "lastUpdated": "2026-03-17",
+  "categories": [
+    {
+      "name": "actions",
+      "description": "Icons representing user actions and interactions",
+      "path": "src/assets/icons/actions",
+      "icons": [
+        {
+          "name": "add",
+          "file": "add.svg",
+          "path": "src/assets/icons/actions/add.svg",
+          "tags": ["plus", "create", "new", "insert"]
+        },
+        {
+          "name": "remove",
+          "file": "remove.svg",
+          "path": "src/assets/icons/actions/remove.svg",
+          "tags": ["minus", "subtract", "decrease"]
+        },
+        {
+          "name": "close",
+          "file": "close.svg",
+          "path": "src/assets/icons/actions/close.svg",
+          "tags": ["x", "dismiss", "cancel", "exit"]
+        },
+        {
+          "name": "check",
+          "file": "check.svg",
+          "path": "src/assets/icons/actions/check.svg",
+          "tags": ["checkmark", "tick", "done", "confirm", "complete"]
+        },
+        {
+          "name": "search",
+          "file": "search.svg",
+          "path": "src/assets/icons/actions/search.svg",
+          "tags": ["find", "magnifier", "lookup", "query"]
+        },
+        {
+          "name": "edit",
+          "file": "edit.svg",
+          "path": "src/assets/icons/actions/edit.svg",
+          "tags": ["pencil", "write", "modify", "update"]
+        },
+        {
+          "name": "delete",
+          "file": "delete.svg",
+          "path": "src/assets/icons/actions/delete.svg",
+          "tags": ["trash", "bin", "remove", "discard"]
+        },
+        {
+          "name": "download",
+          "file": "download.svg",
+          "path": "src/assets/icons/actions/download.svg",
+          "tags": ["save", "export", "pull", "get"]
+        },
+        {
+          "name": "upload",
+          "file": "upload.svg",
+          "path": "src/assets/icons/actions/upload.svg",
+          "tags": ["send", "import", "push", "submit"]
+        },
+        {
+          "name": "copy",
+          "file": "copy.svg",
+          "path": "src/assets/icons/actions/copy.svg",
+          "tags": ["duplicate", "clone", "clipboard"]
+        },
+        {
+          "name": "filter",
+          "file": "filter.svg",
+          "path": "src/assets/icons/actions/filter.svg",
+          "tags": ["funnel", "refine", "narrow", "sort"]
+        },
+        {
+          "name": "sort",
+          "file": "sort.svg",
+          "path": "src/assets/icons/actions/sort.svg",
+          "tags": ["order", "arrange", "list"]
+        }
+      ]
+    },
+    {
+      "name": "navigation",
+      "description": "Icons used for navigation and directional cues",
+      "path": "src/assets/icons/navigation",
+      "icons": [
+        {
+          "name": "home",
+          "file": "home.svg",
+          "path": "src/assets/icons/navigation/home.svg",
+          "tags": ["house", "main", "start", "dashboard"]
+        },
+        {
+          "name": "arrow-up",
+          "file": "arrow-up.svg",
+          "path": "src/assets/icons/navigation/arrow-up.svg",
+          "tags": ["up", "north", "scroll", "ascending"]
+        },
+        {
+          "name": "arrow-down",
+          "file": "arrow-down.svg",
+          "path": "src/assets/icons/navigation/arrow-down.svg",
+          "tags": ["down", "south", "scroll", "descending"]
+        },
+        {
+          "name": "arrow-left",
+          "file": "arrow-left.svg",
+          "path": "src/assets/icons/navigation/arrow-left.svg",
+          "tags": ["left", "west", "back", "previous"]
+        },
+        {
+          "name": "arrow-right",
+          "file": "arrow-right.svg",
+          "path": "src/assets/icons/navigation/arrow-right.svg",
+          "tags": ["right", "east", "forward", "next"]
+        },
+        {
+          "name": "chevron-up",
+          "file": "chevron-up.svg",
+          "path": "src/assets/icons/navigation/chevron-up.svg",
+          "tags": ["caret", "collapse", "up", "expand"]
+        },
+        {
+          "name": "chevron-down",
+          "file": "chevron-down.svg",
+          "path": "src/assets/icons/navigation/chevron-down.svg",
+          "tags": ["caret", "expand", "down", "dropdown"]
+        },
+        {
+          "name": "chevron-left",
+          "file": "chevron-left.svg",
+          "path": "src/assets/icons/navigation/chevron-left.svg",
+          "tags": ["caret", "back", "previous", "left"]
+        },
+        {
+          "name": "chevron-right",
+          "file": "chevron-right.svg",
+          "path": "src/assets/icons/navigation/chevron-right.svg",
+          "tags": ["caret", "forward", "next", "right"]
+        },
+        {
+          "name": "menu",
+          "file": "menu.svg",
+          "path": "src/assets/icons/navigation/menu.svg",
+          "tags": ["hamburger", "nav", "sidebar", "bars"]
+        },
+        {
+          "name": "search",
+          "file": "search.svg",
+          "path": "src/assets/icons/navigation/search.svg",
+          "tags": ["find", "magnifier", "lookup", "query"]
+        }
+      ]
+    },
+    {
+      "name": "communication",
+      "description": "Icons for communication and social features",
+      "path": "src/assets/icons/communication",
+      "icons": [
+        {
+          "name": "mail",
+          "file": "mail.svg",
+          "path": "src/assets/icons/communication/mail.svg",
+          "tags": ["email", "envelope", "message", "inbox"]
+        },
+        {
+          "name": "phone",
+          "file": "phone.svg",
+          "path": "src/assets/icons/communication/phone.svg",
+          "tags": ["call", "telephone", "contact", "dial"]
+        },
+        {
+          "name": "message",
+          "file": "message.svg",
+          "path": "src/assets/icons/communication/message.svg",
+          "tags": ["chat", "bubble", "comment", "talk"]
+        },
+        {
+          "name": "bell",
+          "file": "bell.svg",
+          "path": "src/assets/icons/communication/bell.svg",
+          "tags": ["notification", "alert", "alarm", "reminder"]
+        },
+        {
+          "name": "share",
+          "file": "share.svg",
+          "path": "src/assets/icons/communication/share.svg",
+          "tags": ["send", "distribute", "network", "broadcast"]
+        },
+        {
+          "name": "user",
+          "file": "user.svg",
+          "path": "src/assets/icons/communication/user.svg",
+          "tags": ["person", "account", "profile", "contact"]
+        },
+        {
+          "name": "users",
+          "file": "users.svg",
+          "path": "src/assets/icons/communication/users.svg",
+          "tags": ["people", "team", "group", "community"]
+        }
+      ]
+    },
+    {
+      "name": "status",
+      "description": "Icons representing state, feedback, and system status",
+      "path": "src/assets/icons/status",
+      "icons": [
+        {
+          "name": "info",
+          "file": "info.svg",
+          "path": "src/assets/icons/status/info.svg",
+          "tags": ["information", "help", "hint", "tooltip"]
+        },
+        {
+          "name": "warning",
+          "file": "warning.svg",
+          "path": "src/assets/icons/status/warning.svg",
+          "tags": ["alert", "caution", "triangle", "danger"]
+        },
+        {
+          "name": "error",
+          "file": "error.svg",
+          "path": "src/assets/icons/status/error.svg",
+          "tags": ["fail", "invalid", "problem", "critical"]
+        },
+        {
+          "name": "success",
+          "file": "success.svg",
+          "path": "src/assets/icons/status/success.svg",
+          "tags": ["done", "complete", "ok", "confirmed"]
+        },
+        {
+          "name": "loading",
+          "file": "loading.svg",
+          "path": "src/assets/icons/status/loading.svg",
+          "tags": ["clock", "pending", "wait", "time"]
+        },
+        {
+          "name": "lock",
+          "file": "lock.svg",
+          "path": "src/assets/icons/status/lock.svg",
+          "tags": ["secure", "private", "locked", "protected"]
+        },
+        {
+          "name": "unlock",
+          "file": "unlock.svg",
+          "path": "src/assets/icons/status/unlock.svg",
+          "tags": ["open", "public", "accessible", "unsecured"]
+        }
+      ]
+    },
+    {
+      "name": "media",
+      "description": "Icons for media playback and visual content",
+      "path": "src/assets/icons/media",
+      "icons": [
+        {
+          "name": "play",
+          "file": "play.svg",
+          "path": "src/assets/icons/media/play.svg",
+          "tags": ["start", "run", "video", "audio"]
+        },
+        {
+          "name": "pause",
+          "file": "pause.svg",
+          "path": "src/assets/icons/media/pause.svg",
+          "tags": ["halt", "wait", "hold", "freeze"]
+        },
+        {
+          "name": "stop",
+          "file": "stop.svg",
+          "path": "src/assets/icons/media/stop.svg",
+          "tags": ["end", "finish", "square", "halt"]
+        },
+        {
+          "name": "video",
+          "file": "video.svg",
+          "path": "src/assets/icons/media/video.svg",
+          "tags": ["camera", "film", "clip", "record"]
+        },
+        {
+          "name": "image",
+          "file": "image.svg",
+          "path": "src/assets/icons/media/image.svg",
+          "tags": ["photo", "picture", "gallery", "thumbnail"]
+        },
+        {
+          "name": "wifi",
+          "file": "wifi.svg",
+          "path": "src/assets/icons/media/wifi.svg",
+          "tags": ["wireless", "internet", "network", "signal"]
+        }
+      ]
+    },
+    {
+      "name": "ui",
+      "description": "General-purpose UI and utility icons",
+      "path": "src/assets/icons/ui",
+      "icons": [
+        {
+          "name": "settings",
+          "file": "settings.svg",
+          "path": "src/assets/icons/ui/settings.svg",
+          "tags": ["gear", "preferences", "options", "configure"]
+        },
+        {
+          "name": "heart",
+          "file": "heart.svg",
+          "path": "src/assets/icons/ui/heart.svg",
+          "tags": ["love", "like", "favorite", "save"]
+        },
+        {
+          "name": "star",
+          "file": "star.svg",
+          "path": "src/assets/icons/ui/star.svg",
+          "tags": ["favorite", "rating", "bookmark", "featured"]
+        },
+        {
+          "name": "calendar",
+          "file": "calendar.svg",
+          "path": "src/assets/icons/ui/calendar.svg",
+          "tags": ["date", "schedule", "event", "time"]
+        },
+        {
+          "name": "file",
+          "file": "file.svg",
+          "path": "src/assets/icons/ui/file.svg",
+          "tags": ["document", "page", "text", "attachment"]
+        },
+        {
+          "name": "folder",
+          "file": "folder.svg",
+          "path": "src/assets/icons/ui/folder.svg",
+          "tags": ["directory", "collection", "container", "group"]
+        },
+        {
+          "name": "shield",
+          "file": "shield.svg",
+          "path": "src/assets/icons/ui/shield.svg",
+          "tags": ["security", "protect", "safe", "guard"]
+        },
+        {
+          "name": "refresh",
+          "file": "refresh.svg",
+          "path": "src/assets/icons/ui/refresh.svg",
+          "tags": ["reload", "sync", "update", "rotate"]
+        },
+        {
+          "name": "ban",
+          "file": "ban.svg",
+          "path": "src/assets/icons/ui/ban.svg",
+          "tags": ["block", "prohibit", "deny", "restrict"]
+        },
+        {
+          "name": "more-horizontal",
+          "file": "more-horizontal.svg",
+          "path": "src/assets/icons/ui/more-horizontal.svg",
+          "tags": ["ellipsis", "overflow", "options", "dots"]
+        },
+        {
+          "name": "more-vertical",
+          "file": "more-vertical.svg",
+          "path": "src/assets/icons/ui/more-vertical.svg",
+          "tags": ["ellipsis", "overflow", "kebab", "dots"]
+        }
+      ]
+    }
+  ],
+  "appIcons": {
+    "description": "Application and brand icons",
+    "path": "src/assets/icon",
+    "icons": [
+      {
+        "name": "app-icon",
+        "file": "app-icon.svg",
+        "path": "src/assets/icon/app-icon.svg",
+        "description": "Default application icon with rounded-square shape"
+      },
+      {
+        "name": "app-icon-dark",
+        "file": "app-icon-dark.svg",
+        "path": "src/assets/icon/app-icon-dark.svg",
+        "description": "Dark-mode variant of the application icon"
+      },
+      {
+        "name": "app-icon-round",
+        "file": "app-icon-round.svg",
+        "path": "src/assets/icon/app-icon-round.svg",
+        "description": "Circular variant of the application icon"
+      },
+      {
+        "name": "logo",
+        "file": "logo.svg",
+        "path": "src/assets/icon/logo.svg",
+        "description": "Horizontal lockup logo for use on light backgrounds"
+      },
+      {
+        "name": "logo-light",
+        "file": "logo-light.svg",
+        "path": "src/assets/icon/logo-light.svg",
+        "description": "Horizontal lockup logo for use on dark backgrounds"
+      }
+    ]
+  }
+}
